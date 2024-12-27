@@ -16,12 +16,6 @@ This is a simple command line blackjack game implemented in Python.
 1. Run the [`main.py`](main.py) script to start the game.
 2. Follow the on-screen instructions to play the game.
 
-## Files
-
-- `main.py`(main.py): Contains the main game logic.
-- `art.py`(art.py): Contains the ASCII art for the game logo.
-- [`.gitignore`](.gitignore): Specifies files and directories that Git should ignore.
-
 ## Functions
 
 ### `deal_card()`
